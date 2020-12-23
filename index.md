@@ -3,17 +3,16 @@ layout: page
 excerpt: "About Me..."
 ---
 
-## Ti
-Hey there. Welcome to my site. I'm studying music technology at McGill University in Montreal, QC, Canada. 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+Hey there. Welcome to my site! 
+I'm studying music technology at McGill University in Montreal, QC, Canada. 
+Exploring a range of interdisciplinary topics in music information retrieval, my research involves signal processing, machine learning, and music. 
+I'm research assistant at [Distributed Digital Music Archives & Libraries Lab](https://ddmal.music.mcgill.ca/), currently working on a Django rebuild of [CantusDB](http://cantus.uwaterloo.ca/). 
+In my spare time, I make heavy metal noise with my electric guitar. 
+
 You can get a PDF version of my CV [here]({{ site.url }}/assets/my_CV.pdf).
 
-This is written in index.md, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Current Projects:
 
-## Current Interests and Projects:
-
-- Music 1
-- Music 2
-- Music 3
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Key Estimation of Polyphonic Music Signal using Harmonic Pitch Class Profile (HPCP). 
+- Interactive Demo of Electric Guitar Synthesis Model based on Extended Karplus-Strong Algorithm. 
+- More projects coming soon...
