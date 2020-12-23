@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Jay Wang's Website
+title: Welcome
 locale: en_US
 logo: # logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Jay Wang
+  name: Junhao Wang
   avatar: JW.jpg
-  bio: "Jay Wang is a nice guy."
-  email: 123@456.com #emailaddress
+  bio: "Master student in music technology at McGill"
+  email: j.wang2020@outlook.com #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#0022cc'
-lowlight-color: '#C0C0C0'
+highlight-color: '#ED1B2F'
+lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
