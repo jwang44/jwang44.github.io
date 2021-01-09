@@ -11,7 +11,7 @@ I'm a research assistant at [Distributed Digital Music Archives & Libraries Lab]
 
 In my spare time, I make heavy metal noise with my electric guitar. 
 
-You can get a PDF version of my CV [here]({{ site.url }}/assets/my_CV.pdf).
+You can get a PDF version of my CV [here]({{ site.url }}/assets/Junhao__CV_updated.pdf).
 
 ## Current Projects:
 
