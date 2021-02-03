@@ -34,8 +34,8 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: sc
-  weibo: weibo
+  soundcloud: #sc
+  weibo: #weibo
   flickr: #username
   codepen: #username
   disqus-shortname:
