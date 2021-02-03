@@ -11,12 +11,11 @@ I'm a research assistant at [Distributed Digital Music Archives & Libraries Lab]
 
 In my spare time, I make heavy metal noise with my electric guitar. 
 
-You can get a PDF version of my CV [here]({{ site.url }}/assets/Junhao__CV_updated.pdf).
+You can get a PDF version of my CV [here]({{ site.url }}/assets/Junhao_Wang.pdf).
 
 ## Current Projects:
 
-- Key Estimation of Polyphonic Music Signal using Harmonic Pitch Class Profile (HPCP). 
-
-- Interactive Demo of Electric Guitar Synthesis Model based on Extended Karplus-Strong Algorithm. 
+- Key Estimation of Polyphonic Music Signal using Harmonic Pitch Class Profile (HPCP) [article]({{ site.url }}/assets/605_report.pdf) [code](https://github.com/jwang44/HPCP-Key-Finder)
+- Interactive Demo of Electric Guitar Synthesis Model based on Extended Karplus-Strong Algorithm [article]({{ site.url }}/assets/618_report.pdf) [code](https://github.com/jwang44/KS-extended)
 
 - More projects coming soon...
