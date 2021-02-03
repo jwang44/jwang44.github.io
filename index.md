@@ -15,7 +15,11 @@ You can get a PDF version of my CV [here]({{ site.url }}/assets/Junhao_Wang.pdf)
 
 ## Current Projects:
 
-- Key Estimation of Polyphonic Music Signal using Harmonic Pitch Class Profile (HPCP) [article]({{ site.url }}/assets/605_report.pdf) [code](https://github.com/jwang44/HPCP-Key-Finder)
-- Interactive Demo of Electric Guitar Synthesis Model based on Extended Karplus-Strong Algorithm [article]({{ site.url }}/assets/618_report.pdf) [code](https://github.com/jwang44/KS-extended)
+- Key Estimation of Polyphonic Music Signal using Harmonic Pitch Class Profile (HPCP) 
 
-- More projects coming soon...
+[[PDF]]({{ site.url }}/assets/605_report.pdf) [[Code]](https://github.com/jwang44/HPCP-Key-Finder)
+
+- Interactive Demo of Electric Guitar Synthesis Model based on Extended Karplus-Strong Algorithm 
+
+[PDF]({{ site.url }}/assets/618_report.pdf) [Code](https://github.com/jwang44/KS-extended)
+
