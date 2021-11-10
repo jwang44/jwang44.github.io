@@ -3,7 +3,6 @@ layout: page
 excerpt: "About Me..."
 ---
 ## About me
-
 Hey there. Welcome to my site! 
 
 I'm studying music technology at [McGill University](https://www.mcgill.ca/) in Montreal, QC, Canada. \
@@ -20,10 +19,8 @@ I'm currently exploring the intersection between playing technique detection and
   [[PDF]]({{ site.url }}/assets/621_report.pdf) [[Code]](https://github.com/jwang44/Plucking-Style-Detection)
 - Impulsive Noise Detection and Removal based on auto-regressive modelling
   [[PDF]]({{ site.url }}/assets/501_report.pdf) [[Code]](https://github.com/jwang44/Impulsive-Noise-Removal)
-  
 - Key Estimation of Polyphonic Music Signal using Harmonic Pitch Class Profile (HPCP) 
   [[PDF]]({{ site.url }}/assets/605_report.pdf) [[Code]](https://github.com/jwang44/HPCP-Key-Finder)
-
 - Interactive Demo of Electric Guitar Synthesis Model based on Extended Karplus-Strong Algorithm 
   [[PDF]]({{ site.url }}/assets/618_report.pdf) [[Code]](https://github.com/jwang44/KS-extended)
 
