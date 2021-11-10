@@ -7,14 +7,22 @@ excerpt: "About Me..."
 Hey there. Welcome to my site! \
 I'm studying music technology at [McGill University](https://www.mcgill.ca/) in Montreal, QC, Canada. \
 Exploring a range of interdisciplinary topics in music information retrieval, my research involves signal processing, machine learning, and music. \
-I'm a research assistant at [Distributed Digital Music Archives & Libraries Lab](https://ddmal.music.mcgill.ca/), currently working on a Django rebuild of [CantusDB](http://cantus.uwaterloo.ca/). I'm also a student member at [Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)](https://www.cirmmt.org/).
+I'm a research assistant at [Distributed Digital Music Archives & Libraries Lab](https://ddmal.music.mcgill.ca/), currently working on a Django rebuild of [Cantus DB](http://cantus.uwaterloo.ca/). I'm also a student member at [Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)](https://www.cirmmt.org/).
 
 In my spare time, I make heavy metal noise with my electric guitar. 
 
 You can get a PDF version of my CV [here]({{ site.url }}/assets/Junhao_Wang.pdf).
 
-## Current Projects:
+## Current Project:
+I'm currently exploring the intersection between playing technique detection and automatic guitar transcription. I'm curious to see how the two tasks can benefit each other and open up new possibilities in producing more accurate and comprehensive guitar tablatures. 
 
+## Past Projects:
+- SVM-powered Guitar Plucking Style Classifier
+  [[PDF]]({{ site.url }}/assets/621_report.pdf) [[Code]](https://github.com/jwang44/Plucking-Style-Detection)
+
+- Impulsive Noise Detection and Removal based on auto-regressive modelling
+  [[PDF]]({{ site.url }}/assets/501_report.pdf) [[Code]](https://github.com/jwang44/Impulsive-Noise-Removal)
+  
 - Key Estimation of Polyphonic Music Signal using Harmonic Pitch Class Profile (HPCP) 
   [[PDF]]({{ site.url }}/assets/605_report.pdf) [[Code]](https://github.com/jwang44/HPCP-Key-Finder)
 
