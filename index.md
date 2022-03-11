@@ -12,7 +12,7 @@ I'm a research assistant at [Distributed Digital Music Archives & Libraries Lab]
 You can get a PDF version of my CV [here]({{ site.url }}/assets/Junhao_Wang.pdf).
 
 ## Current Project:
-I'm currently exploring the intersection between playing technique detection and automatic guitar transcription. I'm curious to see how the two tasks can benefit each other and open up new possibilities in producing more accurate and comprehensive guitar tablatures. 
+I'm currently working on detecting expression techniques in guitar audio recordings. Specifically, I'm working with guitar audio signals and annotations generated from Guitar Pro files. With supervised machine learning, I aim to identify instances of *bend*, *vibrato*, *hammer-on*, *pull-off*, and *slide* in guitar solo recordings. 
 
 ## Past Projects:
 - SVM-powered Guitar Plucking Style Classifier
